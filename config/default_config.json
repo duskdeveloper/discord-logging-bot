@@ -1,0 +1,12 @@
+{
+    "prefix": "!",
+    "logging_enabled": true,
+    "log_messages": true,
+    "log_edits": true,
+    "log_deletions": true,
+    "log_joins": true,
+    "log_leaves": true,
+    "log_role_changes": true,
+    "log_voice": true,
+    "log_channels": {}
+}
